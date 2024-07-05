@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Assistant
+  * RWI - Leibniz Institute for Economic Research
+  * Duties includes: Participated in the research project about violence against women during the COVID-19 pandemic.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2020 - 03/2021: Data Analyst - Statistics and Reporting
+  * Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation
+  * Duties included: Executed ad-hoc queries of complexe process-generated data bases in MS-SQL
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2019 - 09/2020: Assistant Teacher
+  * Technische Universität Dortmund, Department of Empirical Economics
+  * Duties included: Gave tutorial lectures of 'Econometrics' in R
+
+* 10/2018 - 03/2019: Assistant Teacher
+  * Technische Universität Dortmund, Department of Macroeconomics
+  * Duties included: Supervised example classes and gave tutorial lecture (~ 100 participants)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Soft Skills:
+  * Eigeninitiative
+  * Kreativität
+  * Kommunikation
+* Hard Skills: 
+  * SQL
+  * python
+  * R
+  * Dashboard-Tools (looker, tableau)
 
-Publications
+Education
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* M.Sc. in Economics, Ruhr-University Bochum
+* B.Sc. in Economics, University of Cologne
+
