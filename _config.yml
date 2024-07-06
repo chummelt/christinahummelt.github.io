@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+minimal_mistakes_skin: dark
+
 # Basic Site Settings
 locale                   : "de-DE"
 title                    : "Christina Hummelt"
@@ -89,7 +91,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark" 
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -334,9 +336,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Custom Assets
-assets:
-  css:
-    - /assets/css/custom.scss
